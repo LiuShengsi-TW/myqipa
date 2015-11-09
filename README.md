@@ -1,2 +1,2 @@
 # myqipa
-sisi's qipa application
+sisi's qipa application's back end
